@@ -20,7 +20,7 @@ namespace HR_Project
 
         private void Form1_Load(object sender, EventArgs e)
         {
-            clsUserData.GetAllUsers();
+           dataGridView1.DataSource= clsUserData.GetAllUsers();
         }
     }
 }

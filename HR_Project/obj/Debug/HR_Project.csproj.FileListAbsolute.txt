@@ -1,0 +1,13 @@
+D:\CairoTeam\HR_Project\New_HR_Project\HR_Project\bin\Debug\HR_Project.exe.config
+D:\CairoTeam\HR_Project\New_HR_Project\HR_Project\bin\Debug\HR_Project.exe
+D:\CairoTeam\HR_Project\New_HR_Project\HR_Project\bin\Debug\HR_Project.pdb
+D:\CairoTeam\HR_Project\New_HR_Project\HR_Project\bin\Debug\DataAccessLib.dll
+D:\CairoTeam\HR_Project\New_HR_Project\HR_Project\bin\Debug\DataAccessLib.pdb
+D:\CairoTeam\HR_Project\New_HR_Project\HR_Project\obj\Debug\HR_Project.csproj.AssemblyReference.cache
+D:\CairoTeam\HR_Project\New_HR_Project\HR_Project\obj\Debug\HR_Project.Form1.resources
+D:\CairoTeam\HR_Project\New_HR_Project\HR_Project\obj\Debug\HR_Project.Properties.Resources.resources
+D:\CairoTeam\HR_Project\New_HR_Project\HR_Project\obj\Debug\HR_Project.csproj.GenerateResource.cache
+D:\CairoTeam\HR_Project\New_HR_Project\HR_Project\obj\Debug\HR_Project.csproj.CoreCompileInputs.cache
+D:\CairoTeam\HR_Project\New_HR_Project\HR_Project\obj\Debug\HR_Project.csproj.Up2Date
+D:\CairoTeam\HR_Project\New_HR_Project\HR_Project\obj\Debug\HR_Project.exe
+D:\CairoTeam\HR_Project\New_HR_Project\HR_Project\obj\Debug\HR_Project.pdb
