@@ -1,13 +1,13 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\MyLocalTeam\\HR_Project\\HR_Project\\",
+  "WorkspaceRootPath": "D:\\CairoTeam\\HR_Project\\New_HR_Project\\HR_Project\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{11E1B707-FF17-4871-B862-41BF5D3DB01C}|HR_Project.csproj|d:\\mylocalteam\\hr_project\\hr_project\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{11E1B707-FF17-4871-B862-41BF5D3DB01C}|HR_Project.csproj|d:\\cairoteam\\hr_project\\new_hr_project\\hr_project\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{11E1B707-FF17-4871-B862-41BF5D3DB01C}|HR_Project.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{11E1B707-FF17-4871-B862-41BF5D3DB01C}|HR_Project.csproj|d:\\mylocalteam\\hr_project\\hr_project\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{11E1B707-FF17-4871-B862-41BF5D3DB01C}|HR_Project.csproj|D:\\CairoTeam\\HR_Project\\New_HR_Project\\HR_Project\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{11E1B707-FF17-4871-B862-41BF5D3DB01C}|HR_Project.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
@@ -28,11 +28,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Form1.cs",
-              "DocumentMoniker": "D:\\MyLocalTeam\\HR_Project\\HR_Project\\Form1.cs",
+              "DocumentMoniker": "D:\\CairoTeam\\HR_Project\\New_HR_Project\\HR_Project\\Form1.cs",
               "RelativeDocumentMoniker": "Form1.cs",
-              "ToolTip": "D:\\MyLocalTeam\\HR_Project\\HR_Project\\Form1.cs",
+              "ToolTip": "D:\\CairoTeam\\HR_Project\\New_HR_Project\\HR_Project\\Form1.cs",
               "RelativeToolTip": "Form1.cs",
-              "ViewState": "AQIAAAQAAAAAAAAAAAArwA0AAAAlAAAA",
+              "ViewState": "AQIAAAQAAAAAAAAAAAArwBYAAAAkAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-15T06:00:28.069Z",
               "EditorCaption": ""
@@ -41,9 +41,9 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Form1.cs [Design]",
-              "DocumentMoniker": "D:\\MyLocalTeam\\HR_Project\\HR_Project\\Form1.cs",
+              "DocumentMoniker": "D:\\CairoTeam\\HR_Project\\New_HR_Project\\HR_Project\\Form1.cs",
               "RelativeDocumentMoniker": "Form1.cs",
-              "ToolTip": "D:\\MyLocalTeam\\HR_Project\\HR_Project\\Form1.cs [Design]",
+              "ToolTip": "D:\\CairoTeam\\HR_Project\\New_HR_Project\\HR_Project\\Form1.cs [Design]",
               "RelativeToolTip": "Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-15T04:36:22.648Z",
