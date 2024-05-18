@@ -22,7 +22,7 @@ namespace AAdlBusiness
             {
 
 
-                string query = @"select * from fullUserInfo_view;";
+                string query = "select * from Employees_View";
 
                 using (SqlCommand command = new SqlCommand(query, connection))
                 {
