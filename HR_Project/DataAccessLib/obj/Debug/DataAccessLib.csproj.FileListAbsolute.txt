@@ -4,3 +4,9 @@ D:\ourLocalTeam\DataAccessLib\bin\Debug\DataAccessLib.dll
 D:\ourLocalTeam\DataAccessLib\bin\Debug\DataAccessLib.pdb
 D:\ourLocalTeam\DataAccessLib\obj\Debug\DataAccessLib.dll
 D:\ourLocalTeam\DataAccessLib\obj\Debug\DataAccessLib.pdb
+D:\CairoTeam\HR_Project\New_HR_Project\HR_Project\DataAccessLib\bin\Debug\DataAccessLib.dll
+D:\CairoTeam\HR_Project\New_HR_Project\HR_Project\DataAccessLib\bin\Debug\DataAccessLib.pdb
+D:\CairoTeam\HR_Project\New_HR_Project\HR_Project\DataAccessLib\obj\Debug\DataAccessLib.csproj.AssemblyReference.cache
+D:\CairoTeam\HR_Project\New_HR_Project\HR_Project\DataAccessLib\obj\Debug\DataAccessLib.csproj.CoreCompileInputs.cache
+D:\CairoTeam\HR_Project\New_HR_Project\HR_Project\DataAccessLib\obj\Debug\DataAccessLib.dll
+D:\CairoTeam\HR_Project\New_HR_Project\HR_Project\DataAccessLib\obj\Debug\DataAccessLib.pdb
